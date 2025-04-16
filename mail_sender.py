@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
-
+#
 userEmail = input('Enter your email to send the mails: ')
 userPassword = input('Enter your email password: ')
 def createPasswordTxt(passFileName):
