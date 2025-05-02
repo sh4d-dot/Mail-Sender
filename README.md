@@ -7,4 +7,4 @@ ________________________________________________________________________________
 # NOTES
 - After sending few emails your mails might be sent into the 'spam' section, I will try to fix this issue in the future.
 - This is my first attempt to make such projects with python and share it to github, so consider this if you see any mistake or errors in this project.
-- I also warmly accept your critics and ideas if you have anything for me text me through instagram: instagram.com/n0tsh4d
+- I also warmly accept your critics and ideas if you have anything for me text me through instagram: www.instagram.com/n0tsh4d
